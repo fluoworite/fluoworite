@@ -6,8 +6,10 @@
 2020.03 ~         | KGU Computer Engineering
 2023.03 ~         | K.knock 14th
 2023.07 ~ 2023.08 | 42SEOUL 10-2nd
+2023.12 ~ 2024.11 | KSEB Bootcamp 2nd
 
 2024.03 ~         | Whitehat School 2nd
+2024.08           | K-SoftVation Showcase 2nd - IITP Director Award (정보통신기획평가원장상)
 ```
 
 
