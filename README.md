@@ -10,7 +10,11 @@
 
 2024.03 ~         | Whitehat School 2nd
 2024.08           | K-SoftVation Showcase 2nd - IITP Director Award (정보통신기획평가원장상)
+2024.08 ~         | KSS (서울여대, 숙명여대, 경기대) Windows software 1-click exploitation
+2024.10 ~         | SSL 5th
+
 ```
+
 
 
 
