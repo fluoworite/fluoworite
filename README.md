@@ -10,7 +10,8 @@
 2024.03 ~         | Whitehat School 2nd
 2024.10 ~         | SSL 5th
 
-2024.11 ~ 2024.11 | U+ Security Hackathon - 25th (team 0w0)
+2024.11 ~ 2024.11 | U+ Security Hackathon
++                 | 25th (team 0w0)
 
 
 ```
@@ -23,9 +24,15 @@
 +                 | Kyonggi Software Festa - President of Kyonggi University (경기대학교 총장상 - 2nd)
 
 2024.08 ~         | KSS (서울여대, 숙명여대, 경기대) Windows software 1-click exploitation
-2024.10 ~         | SSL 5th
 ```
 
+## 📦 Support
+```diff
+2024.11           | KERIS 2024
++                 | staff
+2024.11           | K.knock Web CTF 2024
++                 | staff
+```
 
 ## 🔨 Once I've used
 ### Languages
