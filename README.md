@@ -7,11 +7,13 @@
 2023.03 ~         | K.knock 14th
 2023.12 ~ 2024.11 | KSEB Bootcamp 2nd
 
-2024.03 ~         | Whitehat School 2nd
-2024.10 ~         | SSL 5th
+2024.03 ~ 2024.09 | Whitehat School 2nd
+2024.10 ~ 2025.01 | SSL 5th
 
 2024.11 ~ 2024.11 | U+ Security Hackathon
 +                 | 25th (team 0w0)
+2025.04           | hacktheon 2025
++                 | 39th (team K.con)
 
 
 ```
@@ -23,7 +25,7 @@
 +                 | K-SoftVation Showcase - IITP Director Award (정보통신기획평가원장상 - 2nd)
 +                 | Kyonggi Software Festa - President of Kyonggi University (경기대학교 총장상 - 2nd)
 
-2024.08 ~         | KSS (서울여대, 숙명여대, 경기대) Windows software 1-click exploitation
+2024.08 ~ 2025.01 | KSS (서울여대, 숙명여대, 경기대) Windows software 1-click exploitation
 ```
 
 ## 📦 Support
