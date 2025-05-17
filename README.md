@@ -57,7 +57,8 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ##
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuseon25&layout=compact&theme=graywhite)
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opp5592) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA000&height=150&section=footer" />
 
