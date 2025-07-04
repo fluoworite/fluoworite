@@ -9,6 +9,7 @@
 
 2024.03 ~ 2024.09 | Whitehat School 2nd
 2024.10 ~ 2025.01 | SSL 5th
+2025.06 ~ 2026.03 | Best of the Best 14th
 
 2024.11 ~ 2024.11 | U+ Security Hackathon
 +                 | 25th (team 0w0)
@@ -24,8 +25,6 @@
 2024.08           | Smartcar Project (KSEB Bootcamp 2nd)
 +                 | K-SoftVation Showcase - IITP Director Award (정보통신기획평가원장상 - 2nd)
 +                 | Kyonggi Software Festa - President of Kyonggi University (경기대학교 총장상 - 2nd)
-
-2024.08 ~ 2025.01 | KSS (서울여대, 숙명여대, 경기대) Windows software 1-click exploitation
 ```
 
 ## 📦 Support
