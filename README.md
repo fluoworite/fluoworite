@@ -56,11 +56,12 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ##
 
-<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=flu0w0r1t3" />
+<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Flu0w0r1t3" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluoworite&layout=compact&theme=graywhite)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA000&height=150&section=footer" />
+<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluoworite&layout=compact&theme=graywhite" style="max-width:45%; height:auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA000&height=150&section=footer" style="max-width:45%; height:auto;" />
+</div>
 
 </div>
 
