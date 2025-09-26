@@ -61,12 +61,12 @@
 <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:stretch;">
   <div style="flex:1; height:260px; overflow:hidden;">
     <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Flu0w0r1t3"
-         style="width:30%; height:30%; object-fit:cover; display:block;"
+         style="width:40%; height:40%; object-fit:cover; display:block;"
          alt="dreamhack stats" />
   </div>
   <div style="flex:1; height:260px; overflow:hidden;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluoworite&layout=compact&theme=graywhite"
-         style="width:30%; height:30%; object-fit:cover; display:block;"
+         style="width:40%; height:40%; object-fit:cover; display:block;"
          alt="top languages" />
   </div>
 </div>
