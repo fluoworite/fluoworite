@@ -56,12 +56,21 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ##
 
-<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Flu0w0r1t3" />
 
-<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluoworite&layout=compact&theme=graywhite" style="max-width:45%; height:auto;" />
+<!-- 높이 고정(예: 260px) / object-fit:cover로 중앙 크롭 -->
+<div style="display:flex; gap:12px; flex-wrap:wrap; align-items:stretch;">
+  <div style="flex:1; height:260px; overflow:hidden;">
+    <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Flu0w0r1t3"
+         style="width:30%; height:30%; object-fit:cover; display:block;"
+         alt="dreamhack stats" />
+  </div>
+  <div style="flex:1; height:260px; overflow:hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluoworite&layout=compact&theme=graywhite"
+         style="width:30%; height:30%; object-fit:cover; display:block;"
+         alt="top languages" />
+  </div>
+</div>
+
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA000&height=150&section=footer" style="max-width:45%; height:auto;" />
-</div>
-
-</div>
 
