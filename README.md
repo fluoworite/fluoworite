@@ -15,6 +15,8 @@
 +                 | 25th (team 0w0)
 2025.04           | hacktheon 2025
 +                 | 39th (team K.con)
+2025.08           | BoB CTF
++                 | 12th 
 2025.09           | U+ Security Hackathon
 +                 | 16th (team 샌즈랑결혼하고싶다)
 
