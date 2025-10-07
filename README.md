@@ -11,11 +11,12 @@
 2024.10 ~ 2025.01 | SSL 5th
 2025.06 ~ 2026.03 | Best of the Best 14th
 
-2024.11 ~ 2024.11 | U+ Security Hackathon
+2024.11           | U+ Security Hackathon
 +                 | 25th (team 0w0)
 2025.04           | hacktheon 2025
 +                 | 39th (team K.con)
-
+2025.09           | U+ Security Hackathon
++                 | 16th (team 샌즈랑결혼하고싶다)
 
 ```
 ## 🚩 Project
