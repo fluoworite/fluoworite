@@ -29,6 +29,8 @@
 +                 | K-SoftVation Showcase - IITP Director Award (정보통신기획평가원장상 - 2nd)
 2024.09 ~ 2024.12 | KGU Startup Business Model Build-Up
 +                 | Kyonggi Software Festa - President of Kyonggi University (경기대학교 총장상 - 2nd)
+2025.03 ~ 2025.07 | Lifeline - (KGU Capstone Design) 
++                 | (은상 - 3rd)
 ```
 
 ## 📦 Support
