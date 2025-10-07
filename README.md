@@ -27,6 +27,7 @@
 +                 | KVE-2024-0339 (DOS - filtering bypass)
 2024.08           | Smartcar Project (KSEB Bootcamp 2nd)
 +                 | K-SoftVation Showcase - IITP Director Award (정보통신기획평가원장상 - 2nd)
+2024.09 ~ 2024.12 | KGU Startup Business Model Build-Up
 +                 | Kyonggi Software Festa - President of Kyonggi University (경기대학교 총장상 - 2nd)
 ```
 
